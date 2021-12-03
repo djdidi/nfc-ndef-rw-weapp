@@ -1,0 +1,14 @@
+{
+  "miniprogramRoot": "./dist/debug",
+  "projectname": "nfc-ndef-rw-weapp",
+  "description": "NFC NDEF R/W",
+  "appid": "wx8e911bc3aef9b8ec",
+  "setting": {
+    "urlCheck": true,
+    "es6": false,
+    "postcss": false,
+    "minified": false,
+    "checkSiteMap": false
+  },
+  "compileType": "miniprogram"
+}

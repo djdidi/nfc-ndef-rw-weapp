@@ -1,0 +1,9 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "nfc-ndef-rw-weapp",
+  "appid": "touristappid",
+  "setting": {
+    "es6": false,
+    "minified": false
+  }
+}
