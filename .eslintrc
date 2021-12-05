@@ -4,6 +4,10 @@
     "react/jsx-uses-react": "off",
     "react/react-in-jsx-scope": "off",
     "import/no-commonjs": "off",
-    "jsx-quotes": ["warn", "prefer-double"]
+    "jsx-quotes": ["warn", "prefer-double"],
+    "import/first": "off",
+    "react/jsx-closing-bracket-location": "off",
+    "react/jsx-key": "off",
+    "@typescript-eslint/no-shadow": "off"
   }
 }

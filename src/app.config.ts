@@ -5,7 +5,7 @@ export default {
   window: {
     backgroundTextStyle: 'light',
     navigationBarBackgroundColor: '#fff',
-    navigationBarTitleText: 'WeChat',
+    navigationBarTitleText: 'NFC NDEF 读写',
     navigationBarTextStyle: 'black'
   }
 }

@@ -1,5 +1,6 @@
 import { Component } from 'react';
 import './app.scss';
+import 'miniprogram-api-typings';
 
 class App extends Component {
 

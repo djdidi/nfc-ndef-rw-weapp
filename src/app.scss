@@ -1,1 +1,27 @@
 @import "~taro-ui/dist/style/index.scss";
+
+page {
+  box-sizing: border-box;
+  width: 750px;
+  height: 100%;
+  font-size: 28px;
+  background-color: #f5f5f5;
+}
+
+.at-input__title {
+  font-size: 28px;
+}
+
+.at-input {
+  padding: 14px 0;
+
+  input {
+    font-size: 28px;
+  }
+}
+
+.at-card {
+  .at-card__header-title, .at-card__header-extra {
+    font-size: 28px;
+  }
+}

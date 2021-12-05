@@ -1,0 +1,63 @@
+.page-nfc {
+  padding: 24px 0;
+  background-color: #fff;
+  height: 100%;
+
+  .record-title {
+    font-size: 28px;
+    color: #00000080;
+  }
+
+  .at-card {
+    margin-bottom: 24px;
+    position: relative;
+  }
+
+  .at-card__content {
+    padding: 8px 0;
+  }
+
+  .at-form {
+    border: none;
+  }
+
+  .at-input--disabled {
+    opacity: 1;
+  }
+
+  // 日志部分
+
+  .log-console {
+    width: 100vw;
+    box-sizing: border-box;
+    background-color: #555;
+    height: 500px;
+    padding: 20px 36px;
+    overflow: auto;
+
+    .log-item:first-child .text {
+      padding-right: 30px;
+    }
+
+    .log-item {
+      margin-bottom: 16px;
+
+      .text {
+        font-size: 26px;
+        color: #ccc;
+        word-break: break-all;
+      }
+
+      .time {
+        font-size: 24px;
+        color: #a0a0a0a0;
+      }
+    }
+  }
+
+  // 按钮组
+  .at-button {
+    margin-top: 24px;
+    margin-bottom: 24px;
+  }
+}
